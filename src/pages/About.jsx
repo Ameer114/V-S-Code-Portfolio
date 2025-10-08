@@ -1,5 +1,6 @@
 import React from 'react'
 import myimg from '../assets/myimg.png'
+import resume from '../assets/ameer resume.pdf'
 
 const About = () => {
   const skills = [
@@ -23,9 +24,11 @@ const About = () => {
 Hey, I’m <span className='text-blue-400'> Ameer Nagarasi👋</span>, a FullStack Developer passionate about building clean, responsive web applications. I specialize in crafting intuitive and visually appealing websites, and I also have experience in web UI/UX design. Check out my <a href="/projects" className='text-blue-500'>projects</a> to see my work.      </p>
 
       {/* Resume Button */}
+      <a href={resume} target='_blank'>
       <button className='bg-blue-500 px-4 sm:px-5 py-1 sm:py-2 text-base sm:text-lg md:text-xl rounded-md block mx-auto my-6 hover:bg-blue-600 transition cursor-pointer'>
         Resume
       </button>
+      </a>
 
       {/* Skills Section */}
 <div className='w-full my-6 border-t border-gray-400 pt-4'>
