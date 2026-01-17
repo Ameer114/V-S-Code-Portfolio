@@ -1,3 +1,34 @@
-VS Code Style Portfolio – 
+# 👨‍💻 Ameer Nagarasi — VS Code Portfolio
 
-A developer portfolio inspired by Visual Studio Code, built using React and Tailwind CSS. Showcases my projects in a clean, code-themed interface with responsive design and intuitive navigation. Perfect for highlighting my web development skills in a visually engaging way.
+> “Code is not just logic. It’s creativity written in syntax.”
+
+---
+
+## 📁 About This Project
+
+This portfolio is designed with a **Visual Studio Code editor theme UI** to give visitors a real developer workspace experience.
+
+Instead of a traditional portfolio layout, this project simulates:
+- Code editor layout
+- IDE vibe
+- Developer workflow feel
+
+---
+
+## 🚀 Features
+
+✅ VS Code inspired UI  
+✅ Responsive design  
+✅ Dark theme developer aesthetic  
+✅ Interactive sections  
+✅ Clean component-based structure  
+✅ Fast loading & optimized  
+
+---
+
+## 🛠 Tech Stack
+
+```txt
+Frontend: HTML | CSS | JavaScript | React  
+Styling: Tailwind CSS  
+Deployment: Netlify  
